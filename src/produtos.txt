@@ -1,0 +1,5 @@
+101;Notebook Gamer;Informática;4599.90
+102;Mouse & Teclado Combo;Periféricos;249.90
+103;Monitor 27" 4K;Monitores;1899.00
+104;Cabo HDMI <2m>;Acessórios;29.90
+105;Webcam Full HD;Periféricos;329.50
